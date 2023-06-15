@@ -12,9 +12,7 @@ Compile the program, type make in terminal (Linux)
 To select mode : touch the number key on keyboard according to the mode you want to run
 
 There are 2 main modes in the program:
-  - random distribution of particle:
-    https://github.com/tdd108/QuadTree/assets/94826705/cf69e355-9c9e-4432-b1b6-206eeba06290
-    
+  - random distribution of particle:    
   - distribute particle by clicking
     https://github.com/tdd108/QuadTree/assets/94826705/ca88fefc-ca87-4041-9263-0f6cd980d7bf
 
