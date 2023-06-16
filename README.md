@@ -14,11 +14,16 @@ To select mode : touch the number key on keyboard according to the mode you want
 There are 2 main modes in the program:
   - random distribution of particle:    
 
-    https://github.com/tdd108/QuadTree/assets/94826705/cf69e355-9c9e-4432-b1b6-206eeba06290
+    
+
+    https://github.com/tdd108/QuadTree/assets/94826705/20baad7d-5e87-4e7a-8532-07af8cb568be
+
+
 
 
   - distribute particle by clicking
   
   
-    https://github.com/tdd108/QuadTree/assets/94826705/ca88fefc-ca87-4041-9263-0f6cd980d7bf
-    
+ 
+    https://github.com/tdd108/QuadTree/assets/94826705/6b4f6dd4-a338-4f2c-8ded-71d0682fd495
+
